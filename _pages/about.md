@@ -45,7 +45,7 @@ Video understanding, Action analysis, and related human-centric problems in Comp
 
 # <font color="#2B6ADD"> Selected Publications </font>
 
-<style>
+<!-- <style>
   .container {
     display: flex;
     align-items: center;
@@ -64,7 +64,7 @@ Video understanding, Action analysis, and related human-centric problems in Comp
         <a href="https://github.com/shuxb1s04/shuxb104.github.io/blob/main/paper/MGAC.pdf">[PDF-Link]</a>
         <a href="https://github.com/1xbq1/MAC-Learning">[Code-Link]</a>
   </p>
-</div>
+</div> -->
 <table align="center">
     <tr>
       <td>
