@@ -60,10 +60,6 @@ Video understanding, Action analysis, and related human-centric problems in Comp
         </p>
       </td>
     </tr>
-    <tr align="center">
-        <td>row2, col2</td>
-        <td>row2, col3</td>
-    </tr>
 </table>
 
 
