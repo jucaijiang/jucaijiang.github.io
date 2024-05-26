@@ -46,7 +46,7 @@ Video understanding, Action analysis, and related human-centric problems in Comp
 # <font color="#2B6ADD"> Selected Publications </font>
 
 
-<table align="center">
+<table align="center" border="none">
     <tr>
       <td>
         <img align="left" width="330" height="240" src="../images/MAGC.png"/>
