@@ -63,7 +63,7 @@ Video understanding, Action analysis, and related human-centric problems in Comp
         <b>(ESI Highly Cited Paper)</b>
         <a href="https://github.com/shuxb1s04/shuxb104.github.io/blob/main/paper/MGAC.pdf">[PDF-Link]</a>
         <a href="https://github.com/1xbq1/MAC-Learning">[Code-Link]</a>
-        </p>
+  </p>
 </div>
 <table align="center">
     <tr>
