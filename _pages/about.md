@@ -71,7 +71,7 @@ Video understanding, Action analysis, and related human-centric problems in Comp
     </tr>
     <tr>
       <td>
-        <img align="left" width="330" height="240" src="../images/MAGC.png"/>
+        <img align="left" width="330" height="240" src="../images/CCGL.png"/>
       </td>
       <td>
         <p text-align="left">
@@ -82,7 +82,7 @@ Video understanding, Action analysis, and related human-centric problems in Comp
     </tr>
     <tr>
       <td>
-        <img align="left" width="330" height="240" src="../images/MAGC.png"/>
+        <img align="left" width="330" height="240" src="../images/SCRN.png"/>
       </td>
       <td>
         <p text-align="left">
@@ -93,7 +93,7 @@ Video understanding, Action analysis, and related human-centric problems in Comp
     </tr>
     <tr>
       <td>
-        <img align="left" width="330" height="240" src="../images/MAGC.png"/>
+        <img align="left" width="330" height="240" src="../images/GLIL.png"/>
       </td>
       <td>
         <p text-align="left">
@@ -104,7 +104,7 @@ Video understanding, Action analysis, and related human-centric problems in Comp
     </tr>
     <tr>
       <td>
-        <img align="left" width="330" height="240" src="../images/MAGC.png"/>
+        <img align="left" width="330" height="240" src="../images/H-LSCTM.png"/>
       </td>
       <td>
         <p text-align="left">
@@ -115,7 +115,7 @@ Video understanding, Action analysis, and related human-centric problems in Comp
     </tr>
     <tr>
       <td>
-        <img align="left" width="330" height="240" src="../images/MAGC.png"/>
+        <img align="left" width="330" height="240" src="../images/SUGAR.png"/>
       </td>
       <td>
         <p text-align="left">
@@ -126,7 +126,7 @@ Video understanding, Action analysis, and related human-centric problems in Comp
     </tr>
     <tr>
       <td>
-        <img align="left" width="330" height="240" src="../images/MAGC.png"/>
+        <img align="left" width="330" height="240" src="../images/PAP.png"/>
       </td>
       <td>
         <p text-align="left">
@@ -137,7 +137,7 @@ Video understanding, Action analysis, and related human-centric problems in Comp
     </tr>
     <tr>
       <td>
-        <img align="left" width="330" height="240" src="../images/MAGC.png"/>
+        <img align="left" width="330" height="240" src="../images/CFR.png"/>
       </td>
       <td>
         <p text-align="left">
@@ -148,7 +148,7 @@ Video understanding, Action analysis, and related human-centric problems in Comp
     </tr>
     <tr>
       <td>
-        <img align="left" width="330" height="240" src="../images/MAGC.png"/>
+        <img align="left" width="330" height="240" src="../images/DTNs.png"/>
       </td>
       <td>
         <p text-align="left">
@@ -159,7 +159,7 @@ Video understanding, Action analysis, and related human-centric problems in Comp
     </tr>
     <tr>
       <td>
-        <img align="left" width="330" height="240" src="../images/MAGC.png"/>
+        <img align="left" width="330" height="240" src="../images/PAPD.png"/>
       </td>
       <td>
         <p text-align="left">
