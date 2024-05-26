@@ -67,7 +67,7 @@ Video understanding, Action analysis, and related human-centric problems in Comp
 </div>
 <table align="center">
     <tr>
-      <td width="36%">
+      <td>
         <img align="left" width="330" height="240" src="../images/MAGC.png"/>
       </td>
       <td>
