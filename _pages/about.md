@@ -45,6 +45,15 @@ Video understanding, Action analysis, and related human-centric problems in Comp
 
 # <font color="#2B6ADD"> Selected Publications </font>
 
+<style>
+  table {
+    border-collapse: collapse;
+  }
+
+  table, th, td {
+    border-color: transparent;
+  }
+</style>
 
 <table align="center" border="none">
     <tr>
